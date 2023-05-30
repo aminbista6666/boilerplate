@@ -1,1 +1,1 @@
-# shopup
+# Dj boilerplate
